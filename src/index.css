@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav{
+  background-color: lightblue;
+}
+
+
+.totallable {
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: 30px;
+  margin-right: 10px;
+  border: lightcoral 1px solid;
+  border-radius: 20px;
+  background-color: lightcoral;
+  
+}
+
+.buttons {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.lables {
+  padding-right: 20px;
+}
+
+.alllabels{
+ 
+  margin-right: 20px;
+  border: yellow 1px solid;
+  background-color: lightgreen;
+  padding-right: 20px;
+  padding-left: 20px;
+
+}
+
