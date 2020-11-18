@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmrAbdulSalam/ReactItems/static/css/main.c3be72a4.chunk.css",
+    "main.js": "/AmrAbdulSalam/ReactItems/static/js/main.fee09a4c.chunk.js",
+    "main.js.map": "/AmrAbdulSalam/ReactItems/static/js/main.fee09a4c.chunk.js.map",
+    "runtime-main.js": "/AmrAbdulSalam/ReactItems/static/js/runtime-main.3e7d3774.js",
+    "runtime-main.js.map": "/AmrAbdulSalam/ReactItems/static/js/runtime-main.3e7d3774.js.map",
+    "static/js/2.3655a18c.chunk.js": "/AmrAbdulSalam/ReactItems/static/js/2.3655a18c.chunk.js",
+    "static/js/2.3655a18c.chunk.js.map": "/AmrAbdulSalam/ReactItems/static/js/2.3655a18c.chunk.js.map",
+    "static/js/3.fbb6369c.chunk.js": "/AmrAbdulSalam/ReactItems/static/js/3.fbb6369c.chunk.js",
+    "static/js/3.fbb6369c.chunk.js.map": "/AmrAbdulSalam/ReactItems/static/js/3.fbb6369c.chunk.js.map",
+    "index.html": "/AmrAbdulSalam/ReactItems/index.html",
+    "static/css/main.c3be72a4.chunk.css.map": "/AmrAbdulSalam/ReactItems/static/css/main.c3be72a4.chunk.css.map",
+    "static/js/2.3655a18c.chunk.js.LICENSE.txt": "/AmrAbdulSalam/ReactItems/static/js/2.3655a18c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e7d3774.js",
+    "static/js/2.3655a18c.chunk.js",
+    "static/css/main.c3be72a4.chunk.css",
+    "static/js/main.fee09a4c.chunk.js"
+  ]
+}
